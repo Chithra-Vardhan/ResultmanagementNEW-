@@ -1,0 +1,27 @@
+.sidebar-div {
+    width: 100vw;
+    position: realtive;
+    height: 50px;
+    background-color: #96bbf0;
+    color: white;
+    padding: 10px;
+}
+
+#anchor-tag {
+    color: white;
+    text-decoration: none;
+    padding-left: 3%;
+}
+
+#anchor-tag:active {
+    color: palevioletred;
+}
+
+#logout-btn {
+    margin-left: 63%;
+    background-color: #8ca4e152;
+    border: none;
+    /* background-color: #96bbf0; */
+    BORDER-RADIUS: 10PX;
+   
+}
